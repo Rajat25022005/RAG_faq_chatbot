@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the return policy?",
+    "answer": "You can return any item within 30 days of purchase for a full refund. The item must be unused and in its original packaging."
+  },
+  {
+    "question": "How do I track my order?",
+    "answer": "Once your order has shipped, you will receive an email with a tracking number. You can use this number on our website's 'Track Order' page or directly on the carrier's website."
+  },
+  {
+    "question": "Do you offer international shipping?",
+    "answer": "Yes, we ship to over 100 countries worldwide. Shipping costs and delivery times vary depending on the destination. Please check our shipping page for more details."
+  },
+  {
+    "question": "How can I reset my password?",
+    "answer": "To reset your password, click the 'Forgot Password?' link on the login page. You will be asked to enter your email address, and we will send you a link to create a new password."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept all major credit cards, including Visa, MasterCard, and American Express. We also accept payments via PayPal."
+  }
+]

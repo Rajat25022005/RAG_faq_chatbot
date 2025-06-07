@@ -1,0 +1,7 @@
+backend/requirements.txt
+flask
+sentence-transformers
+faiss-cpu
+numpy
+ollama
+flask-cors
